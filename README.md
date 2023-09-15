@@ -23,7 +23,7 @@
     <br />
     
 <h2> Clique aqui para ver o componente </h2>
-<a href="https://angular-santander-dev-week.vercel.app/"> Card de notícias como WebComponent </a> 
+<a href="https://card-news-web-component.vercel.app/"> Card de notícias como WebComponent </a> 
   </p>
 <a 
       href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues">
