@@ -1,29 +1,31 @@
 <div align="center">
 
 <h1 align="center" display="flex">
- <img src="icons8-js.png">
- <img src="icons8-html.png">
- <img src="icons8-css.png">
+ <img src="/assets/icons8-js.png">
+ <img src="/assets/icons8-html.png">
+ <img src="/assets/icons8-css.png">
   <br />
    Criando um componente Web na mão
 </h1>
-
-<div align="left" display="flex">
-  	<a href="#">
-      <img src="/assets/ComponentPreview.png" width="400" alt="preview" />
-  	</a>
-    <a href="#">
-      <img src="/assets/Custom_HTML_Tag.png" width="400" alt="preview" />
-  	</a>
+<br/>
+<div align="center" display="flex">
+  
+<a href="#">
+<img src="/assets/Custom_HTML_Tag.png" width="500" alt="preview" />
+  </a>
 </div>
 
   <!-- project description and menu -->
   <p align="center">
-     Preview do componente e a Tag customizada
+     Preview da tag HTML customizada
     <br />
     <br />
     <br />
-    <a 
+    
+<h2> Clique aqui para ver o componente </h2>
+<a href="https://angular-santander-dev-week.vercel.app/"> Card de notícias como WebComponent </a> 
+  </p>
+<a 
       href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues">
       Report Bug
     </a>
@@ -31,10 +33,8 @@
     <a 
       href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues/new">
       Request Feature
-    </a>
-		<h2> Clique aqui e acesse a Aplicação </h2>
-		<a href="https://angular-santander-dev-week.vercel.app/"> Card de notícias como WebComponent </a> 
-  </p>
+    </a>  
+<br />
 </div>
 
 ## Features
