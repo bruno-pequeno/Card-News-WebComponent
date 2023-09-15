@@ -5,7 +5,7 @@
  <img src="/assets/icons8-html.png">
  <img src="/assets/icons8-css.png">
   <br />
-   Criando um componente Web na mão
+   Aprendendo a criar componente Web na mão
 </h1>
 <br/>
 <div align="center" display="flex">
@@ -37,15 +37,15 @@
 <br />
 </div>
 
-## Features
-- [x] This project was developed entirely in Angular and aims only to show and put into practice some concepts
-			that are often used in development with the Angular framework, such as: dependencies, configuration, Angular Cli,
-			Node.js, components and their injection, etc, just one for a first contact with the framework.
+## Sobre o projeto
+- [x] Este projeto  foi desenvolvido dentro de um dos cursos da plataforma DIO, que tinha como objetivo tirar aquele medo que normalmente temos quando tratamos de frameworks ou mesmo querer aprender e desenvolver usando um framework sem nem entender o que aquele framework está fazendo. Com isso, criamos o nossa própria tag HTML atráves da Shadow-D.O.M com as características que queriamos deixando ela dinâmica, colocamos dentro dela então através do Java Script  elementos HTML's e estilos para o projeto, sendo então junção de tudo isso o que conhecemos como um componente Web.
 
-## Technologies & Techniques
+<br />
 
-This project was developed with the following technologies:
--   Angular: as mentioned, Angular was the framework used, but within it we have several technologies such as: TypeScript, CSS and HTML.
-In addition to the notion developed about the project structure, with the configuration Jsons
-of all project properties and modules node."
+## Feedback
+- Foi bem legal esse projeto, gostei bastante de desenvolver ele e agregou um grande valor ao meu conhecimento, pois agora entendi como funciona a criação de um componente manualmente, o por que utilizar um framework e como ele irá nos ajudar no desenvolvimento e produtividade, além de poder reutilizar componentes conforme a necessidade de cada projeto.
+
+
+
+
    
